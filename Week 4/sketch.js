@@ -5,7 +5,7 @@ function setup() {
 }
 
 function draw() {
-	rect(100, 50, 200, 120);
+	rect(100, 150, 200, 120);
 
 	// Your sketch code
 }
